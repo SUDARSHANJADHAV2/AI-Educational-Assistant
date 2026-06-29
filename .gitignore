@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Model weights — too large for GitHub (hosted on Google Drive)
+my_custom_model/
+my_custom_model_gguf/
+outputs/
+unsloth_compiled_cache/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo

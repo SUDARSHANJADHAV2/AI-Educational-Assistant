@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+torch
+faster-whisper
+openai
+yt-dlp
+pydub
+PyPDF2
